@@ -16,3 +16,6 @@ The player with the best hand wins the round and gets the bet money. If there is
 When the games ends, the player with the most money wins.
 
 As a final note, the game uses number only to identify cards. This means that instead of there being Aces, Jacks, Queens or Kings, the numbers 1, 11, 12, 13 are used respectively.
+
+
+The python source file can be found in the "3_Card_Poker.py" and the runnable exe is in "3_Card_Poker.exe". The runnable exe may not work, if it doesnt I ask that you run the actual .py file in your desired IDE.
